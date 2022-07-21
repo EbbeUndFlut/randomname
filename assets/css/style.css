@@ -1,0 +1,26 @@
+.hidden {
+    display: none;
+}
+
+button {
+    padding: 30vh 30vh;
+    border-radius: 50%;
+    background: red;
+    color: white;
+    font-size: 74px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: rgb(198, 0, 0);
+}
+
+body {
+    text-align: center;
+}
+
+div:first-of-type {
+    font-size: 80px;
+    text-transform: uppercase;
+}
